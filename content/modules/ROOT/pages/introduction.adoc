@@ -1,4 +1,4 @@
-= From Development to Deployment: Securing the Software Supply Chain with Red Hat OpenShift
+= Enhancing Developer Efficiency and Security with Trusted Application Pipeline Workshop
 
 This workshop focuses on the critical integration of security practices into the development and deployment processes using Red Hat OpenShift and a suite of Red Hat security tools. It highlights the necessity of embedding security early in the development lifecycle, known as "shifting left." It guides participants through hands-on activities that transition from non-secure to secure development pipelines.
 
